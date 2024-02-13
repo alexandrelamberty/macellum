@@ -1,0 +1,15 @@
+[submodule "macellum-api"]
+	path = macellum-api
+	url = https://github.com/alexandrelamberty/macellum-api.git
+[submodule "macellum-api-spec"]
+	path = macellum-api-spec
+	url = https://github.com/alexandrelamberty/macellum-api-spec.git
+[submodule "macellum-api-client-typescript"]
+	path = macellum-api-client-typescript
+	url = https://github.com/alexandrelamberty/macellum-api-client-typescript.git
+[submodule "macellum-web-app"]
+	path = macellum-web-app
+	url = https://github.com/alexandrelamberty/macellum-web-app.git
+[submodule "macellum-infrastructure"]
+	path = macellum-infrastructure
+	url = https://github.com/alexandrelamberty/macellum-infrastructure.git
