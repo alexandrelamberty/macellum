@@ -13,3 +13,6 @@
 [submodule "macellum-infrastructure"]
 	path = macellum-infrastructure
 	url = https://github.com/alexandrelamberty/macellum-infrastructure.git
+[submodule "macellum-mobile-app"]
+	path = macellum-mobile-app
+	url = https://github.com/alexandrelamberty/macellum-mobile-app.git
