@@ -52,10 +52,14 @@ This Grocery Management System is designed to enhance the overall functionality 
   
   Within this submodule resides the web application built using React and shadcn/ui.
 
+- **Mobile Application ([macellum-mobile-app](https://github.com/alexandrelamberty/macellum-mobile-app))**:
+
+  Developed using React Native and Expo, this submodule hosts the source code for the mobile application integrated within the project.
+
 ## Requirements
 
 - [Docker](https://www.docker.com/)
 
 ## Usage
 
-See the [Macellum Infrastructure](https://github.com/alexandrelamberty/macellum-infrastructure) project.
+See the [Macellum Infrastructure repository](https://github.com/alexandrelamberty/macellum-infrastructure) project.
