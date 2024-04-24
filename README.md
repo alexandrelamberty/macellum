@@ -48,7 +48,7 @@ This Grocery Management System is designed to enhance the overall functionality 
   
   This submodule contains the source code for a Golang implementation of the API specification. It provides the backend server application logic to handle API requests and business logic. The server is build using Fiber.
 
-- **Web Application ([macellum-infrastructure](https://github.com/alexandrelamberty/macellum/))**:
+- **Web Application ([macellum-web-app](https://github.com/alexandrelamberty/macellum-web-app))**:
   
   Within this submodule resides the web application built using React and shadcn/ui.
 
