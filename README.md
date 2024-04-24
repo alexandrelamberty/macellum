@@ -62,4 +62,4 @@ This Grocery Management System is designed to enhance the overall functionality 
 
 ## Usage
 
-See the [Macellum Infrastructure repository](https://github.com/alexandrelamberty/macellum-infrastructure) project.
+See the [Macellum Infrastructure repository](https://github.com/alexandrelamberty/macellum-infrastructure).
