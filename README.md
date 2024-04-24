@@ -38,13 +38,13 @@ This Grocery Management System is designed to enhance the overall functionality 
 
 - **API Specification ([macellum-api-spec](https://github.com/alexandrelamberty/macellum-api-spec/))**:
   
-  Here lies the OpenAPI specification for the project's RESTful API. This document serves as the contract between frontend and backend developers, detailing all endpoints, request/response formats, and authentication requirements.
+  Here lies the OpenAPI specification for the project's RESTful API. This document serves as the contract between frontend and backend developers, detailing all endpoints, request/response formats, and authentication requirements. Additionally, the documentation for the API is available [here](https://alexandrelamberty.github.io/macellum-api-spec).
 
 - **Client TypeScript API Library ([macellum-api-client-typescript](https://github.com/alexandrelamberty/macellum-api-client-lib-typescript/))**:
   
   This submodule houses the TypeScript API library generated from the API specification. It provides a convenient way to interact with the backend services from TypeScript applications.
 
-- **API Server ([macellum-api-server](macellum-api-server))**:
+- **API Server ([macellum-api-server](https://github.com/alexandrelamberty/macellum-api-server))**:
   
   This submodule contains the source code for a Golang implementation of the API specification. It provides the backend server application logic to handle API requests and business logic. The server is build using Fiber.
 
